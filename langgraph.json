@@ -1,0 +1,7 @@
+{
+  "graphs": {
+    "builder": "uipath_claude.graph:graph"
+  },
+  "python_version": "3.11",
+  "dependencies": ["."]
+}
